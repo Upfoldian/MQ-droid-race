@@ -1,5 +1,5 @@
 # MQ-droid-race
-Python code for droid race
+Python code for droid race. Note, this is definitely not good code. Conditions during the contest typically end up with the need for quick spotchanges to code. Typically this means you end up with a big file of spaghetti, as there are time limits on test track access in the venue.
 
 File Summary (2018/05/28)
 
